@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "5.1",
+	"FriendlyName": "Mannequin",
+	"Description": "UE4 & 5 Mannequin",
+	"Category": "TP Framework",
+	"CreatedBy": "Dominic Franz",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

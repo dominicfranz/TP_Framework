@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "5.1",
+	"FriendlyName": "TP_LevelTemplate",
+	"Description": "Third Person Level Prototyping Template",
+	"Category": "Level Template",
+	"CreatedBy": "Dominic Franz",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
